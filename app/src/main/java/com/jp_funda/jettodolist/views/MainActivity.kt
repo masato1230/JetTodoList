@@ -1,4 +1,4 @@
-package com.jp_funda.jettodolist
+package com.jp_funda.jettodolist.views
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
